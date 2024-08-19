@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kevin
+- 👋 Hi, I’m Kevin
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning JavaScripts
 - 💞️ I’m looking to collaborate on College Assignments
